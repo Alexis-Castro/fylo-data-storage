@@ -204,7 +204,6 @@ img {
         max-width: 1500px;
         display: grid;
         grid-template-columns: 400px 1fr;
-
         grid-template-rows: 45px 200px;
     }
     .section_1 {
