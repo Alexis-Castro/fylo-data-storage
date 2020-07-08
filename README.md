@@ -1,6 +1,6 @@
 # Fylo Data Storage Component HTML & CSS.
 
-### Watch the proyect https://alexis.castro.github.io/
+### Watch the proyect https://alexis-castro.github.io/fylo-data-storage/
 
 ![Design preview for the Fylo data storage component coding challenge](./assets/desktop-preview.jpg)
 
